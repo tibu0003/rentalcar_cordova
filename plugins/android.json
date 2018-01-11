@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.algonquincollege.tibu0003.rentalCar"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.algonquincollege.tibu0003.rentalCar"
+    }
+  },
+  "dependent_plugins": {}
+}

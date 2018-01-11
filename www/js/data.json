@@ -1,0 +1,134 @@
+{
+  "cars": [
+    {
+      "ID": 1,
+      "Name": "Economy",
+      "imgURL": "./img/economy.png",
+      "Info": "Kia Rio or similar",
+      "Price": "$30.00 per day plus taxes and optional items*", 
+      "additional": {
+        "People": 4,
+        "Large Luggage": 1,
+        "Small Luggage": 1,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 2,
+      "Name": "Compact",
+      "imgURL": "./img/compact.png",
+      "Info": "Nissan Versa Note or similar",
+      "Price":"$35.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 1,
+        "Small Luggage": 1,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 3,
+      "Name": "Intermediate",
+      "imgURL": "./img/intermediate.png",
+      "Info": "Hyundai Elantra or similar",
+      "Price":"$40.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 1,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 4,
+      "Name": "Standart",
+      "imgURL": "./img/standart.png",
+      "Info": "Kia Soul or similar",
+      "Price":"$45.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 1,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 5,
+      "Name": "Full Size",
+      "imgURL": "./img/full_size.png",
+      "Info": "Chevrolet Malibu or similar",
+      "Price":"$50.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 2,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 6,
+      "Name": "Intermediate SUV",
+      "imgURL": "./img/intermediate_suv.png",
+      "Info": "Ford Escape or similar",
+      "Price":"$55.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 2,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 7,
+      "Name": "Standart SUV",
+      "imgURL": "./img/standart_suv.png",
+      "Info": "Jeep Grand Cherokee or similar",
+      "Price":"$60.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 3,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 8,
+      "Name": "Premium",
+      "imgURL": "./img/premium.png",
+      "Info": "Nissan Maxima or similar",
+      "Price":"$65.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 2,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 9,
+      "Name": "Minivan",
+      "imgURL": "./img/minivan.png",
+      "Info": "Dodge Grand Caravan or similar",
+      "Price":"$70.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 7,
+        "Large Luggage": 3,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"
+      }
+    },
+    {
+      "ID": 10,
+      "Name": "Premium Special",
+      "imgURL": "./img/premium_special.png",
+      "Info": "Chrysler 300S or similar",
+      "Price":"$75.00 per day plus taxes and optional items*",
+      "additional": {
+        "People": 5,
+        "Large Luggage": 3,
+        "Small Luggage": 2,
+        "Transmission": "Automatic"   
+      }
+    }
+]
+}
